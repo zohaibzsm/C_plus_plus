@@ -1,0 +1,21 @@
+Alif |id1|=5;
+Alif |id2|='\n';
+^^|id1|=5;
+|id5|=4;^^
+Shuru{
+Alif |id3|=Sahi;
+|id2|++;
+Alif |id2|=7;
+^Alif |id2|=7;
+Agar(|id2|!=5 Or Sahi Ya |id1| <= 15 Or !(|id3|)){
+Alif |id2|=7;
+|id2| = Sahi;
+Jabtak(|id2|){
+|id2|=Galat;
+Alif |id4|=7;
+^Alif |id4|=7;
+}
+|id4|++;
+|id1|--;
+}
+}Akhir
